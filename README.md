@@ -9,4 +9,5 @@ I am interested in:
 Feel free to look around my profile for some projects I have completed!
 
 Reach me at: jamesignac@gmail.com
-Linkedin: www.linkedin.com/in/james-ignacio
+
+LinkedIn: www.linkedin.com/in/james-ignacio
