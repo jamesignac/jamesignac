@@ -1,10 +1,12 @@
-👋 Hello! My name is James Ignacio. I am a sophomore Computer Science Major and Bioinformatics Minor at Fordham University.
+👋 Hello! My name is James Ignacio. I am a sophomore Computer Science Major at Fordham University.
 
 I am interested in:
 - sports (basketball)
 - music (songwriting, music production, audio engineering)
 - data analytics
-- bioinformatics
+- predictive modeling
+- data mining
+- machine learning
 
 Feel free to look around my profile for some projects I have completed!
 
