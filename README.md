@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m James Ignacio  
 
-🎓 **Senior Computer Science Major** at **Fordham University** with a passion for building, learning, and exploring how technology can make a meaningful impact.  
+🎓 **Senior Computer Science Major** at **Fordham University** who loves building, learning, and exploring how technology can make a meaningful impact.  
 
-💡 I love blending creativity, problem-solving, and data-driven thinking to drive innovation and excel in any role I take on.
+💡 I blend creativity, problem-solving, and data-driven thinking to drive innovation and excel in any role I take on.
 
 ---
 
